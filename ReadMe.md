@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Pedro Rodrigues!<br><br>🎓 Student at **Universidade Fernando Pessoa**.<br>🌱 Currently learning **Java and Object-Oriented Programming (OOP)**.<br>🔭 Actively developing personal projects (like a Library Management System) to consolidate **software engineering best practices** and write clean, maintainable code.<br>📫 How to reach me: [LinkedIn](www.linkedin.com/in/pedro-rodrigues2006) or at pedrojarodrigues06@gmail.com
+👋 Hi there, I'm Pedro Rodrigues!<br><br>🎓 Student at **Universidade Fernando Pessoa**.<br>🌱 Currently learning **Java and Object-Oriented Programming (OOP)**.<br>🔭 Actively developing personal projects  to consolidate **software engineering best practices** and write clean, maintainable code.<br>📫 How to reach me: [LinkedIn](www.linkedin.com/in/pedro-rodrigues2006) or at pedrojarodrigues06@gmail.com
 
 
 ## 🌐 Socials:
